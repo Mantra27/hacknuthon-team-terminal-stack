@@ -1,6 +1,6 @@
 # Alpine
 
-Not your average protocol transfer
+Not your average protocol exchanger!
 
 ## Summary
 Alpine works directly on ***TCP*** sockets instead just listening to HTTP requests,

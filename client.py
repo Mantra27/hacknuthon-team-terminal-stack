@@ -1,7 +1,7 @@
 import requests
 
 # Set the URL for the SOAP server
-url = 'http://localhost:3000/wsdl'
+url = 'http://localhost:8000/hello'
 
 # Construct the SOAP request message as an XML document
 soap_request = '''

@@ -1,3 +1,11 @@
 load balancer
 proxy
 automatic protocol detection
+
+
+
+steps
+make a tcp listsner
+determine request type and process accordingly
+
+node listener.js -h localhost -p 8080 
